@@ -1,0 +1,6 @@
+C:\Users\Games\Desktop\Ochuko_programing\Pyrimaid\Pyrimaid\bin\Debug\Pyrimaid.exe.config
+C:\Users\Games\Desktop\Ochuko_programing\Pyrimaid\Pyrimaid\bin\Debug\Pyrimaid.exe
+C:\Users\Games\Desktop\Ochuko_programing\Pyrimaid\Pyrimaid\bin\Debug\Pyrimaid.pdb
+C:\Users\Games\Desktop\Ochuko_programing\Pyrimaid\Pyrimaid\obj\Debug\Pyrimaid.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Ochuko_programing\Pyrimaid\Pyrimaid\obj\Debug\Pyrimaid.exe
+C:\Users\Games\Desktop\Ochuko_programing\Pyrimaid\Pyrimaid\obj\Debug\Pyrimaid.pdb
